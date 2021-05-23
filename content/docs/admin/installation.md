@@ -1,6 +1,6 @@
 +++
-title = "Installation"
-description = "How to install BookStack"
+title = "Instalação"
+description = "Como instalar o BookStack"
 date = "2017-01-01"
 type = "admin-doc"
 +++
